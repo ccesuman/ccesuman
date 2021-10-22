@@ -1,0 +1,44 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package javaapplication4;
+import java.util.Scanner;
+/**
+ *
+ * @author ccesu
+ */
+public class JavaApplication4 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        System.out.println("Type a sentence");
+        Scanner input = new Scanner(System.in);
+        String str = input.nextLine();
+        int upper = 0;
+        int lower = 0;
+        int digit = 0;
+        for(int i=0; i< str.length();i++) {
+            char c = str.charAt(i);
+            if(c>= 'A' && c<= 'Z') {
+                upper++;
+            }
+            else if(c>= 'a' && c<= 'z'){
+                lower++;
+            }
+            else if(c>= '0' && c<= '9'){
+                digit++;
+            
+        }
+            
+    }
+        System.out.println("Upper = " +upper );
+        System.out.println("Lower = " +lower );
+        System.out.println("Digit = " +digit );
+        input.close();
+    
+}
