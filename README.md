@@ -40,6 +40,15 @@ Designed and deployed a production-ready **Restaurant Management REST API** usin
 🔹 Integrated Azure Blob Storage & Application Insights  
 
 🔗 Repository: (https://github.com/ccesuman/Restaurants)
+### ☁️ Azure Deployment Architecture
+
+The application is deployed using GitHub Actions CI/CD to Azure App Service.  
+Azure SQL is used for relational data storage, while Azure Blob Storage stores media files.  
+Application Insights is used for monitoring and logging.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ccesuman/Restaurants/master/assets/Images/azure-deployment.png" width="900"/>
+</p>
 
 ---
 
