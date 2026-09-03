@@ -10,12 +10,12 @@
 
 <p align="left">
   <a href="mailto:suman1721k@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ccesuman%40gmail.com-red?logo=gmail&style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-suman1721k%40gmail.com-red?logo=gmail&style=for-the-badge" alt="Email" />
   </a>
   <a href="https://in.linkedin.com/in/ccesuman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Suman-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://rebrand.ly/ccesumanresume" target="_blank">
+  <a href="https://rebrand.ly/resume" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge" alt="Resume" />
   </a>
 </p>
