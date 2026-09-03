@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:ccesuman@gmail.com">
+  <a href="mailto:suman1721k@gmail.com">
     <img src="https://img.shields.io/badge/Email-ccesuman%40gmail.com-red?logo=gmail&style=for-the-badge" alt="Email" />
   </a>
   <a href="https://in.linkedin.com/in/ccesuman" target="_blank">
@@ -124,4 +124,4 @@ C#, ASP.NET Core, REST APIs, Entity Framework Core, Angular, SQL Server, Azure, 
 
 I'm always open to a good conversation about backend engineering, cloud, or new opportunities. Feel free to reach out!
 
-📧 [ccesuman@gmail.com](mailto:ccesuman@gmail.com) · 🔗 [LinkedIn](https://in.linkedin.com/in/ccesuman) · 📄 [Resume](https://rebrand.ly/ccesumanresume) · 📞 7352689291
+📧 [suman1721k@gmail.com](mailto:suman1721k@gmail.com) · 🔗 [LinkedIn](https://in.linkedin.com/in/ccesuman) · 📄 [Resume](https://rebrand.ly/ccesumanresume) · 📞 7352689291
